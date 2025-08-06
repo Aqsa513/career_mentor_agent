@@ -42,7 +42,7 @@ job_agent = Agent(
 
 # 🔹 Main function
 def main():
-    print("\n🎓 Career Mentor Agent\n")
+    print("\nU0001F393  Career Mentor Agent\n")
 
     while True:
         interest = input("📝 What are your interests? ➡ ")

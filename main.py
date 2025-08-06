@@ -62,7 +62,7 @@ def main():
 
         again = input("\n🔁 Do you want to explore another field? (yes/no): ").strip().lower()
         if again not in ('yes', 'y'):
-            print("\n🙌 Thanks for using Career Mentor Agent!")
+            print("\n 👍 Thanks for using Career Mentor Agent!")
             break
 
 if __name__ == "__main__":
